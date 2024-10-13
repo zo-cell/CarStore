@@ -1,0 +1,10 @@
+/* Card box style */
+
+.cardBox img {
+    transition: .4s;
+    /* color: #418eec */
+}
+
+.cardBox:hover img {
+    transform: scale(1.1);
+}
